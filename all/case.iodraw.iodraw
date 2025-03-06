@@ -107,7 +107,7 @@
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-7" value="VENC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1015" y="1380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9uPW-A-e4T2IFHWJDZd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-50" target="I9uPW-A-e4T2IFHWJDZd-9">
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-50" target="I9uPW-A-e4T2IFHWJDZd-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="827" y="1050" as="sourcePoint" />
           </mxGeometry>
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-9" value="720P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="1015" y="965" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-11" value="VPSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="480" width="60" height="30" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="1225" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-31" value="MP4(2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="965" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-33" value="MP4(3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="1150" width="120" height="60" as="geometry" />
