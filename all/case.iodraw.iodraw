@@ -112,6 +112,9 @@
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-9" value="720P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
