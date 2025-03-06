@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-1" value="广角" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-2" value="Case1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="60" height="30" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-3" value="VI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UA4GAcR8JH4wIj2-OkDI-7" target="UA4GAcR8JH4wIj2-OkDI-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,7 +81,7 @@
             <mxPoint x="700" y="630" as="sourcePoint" />
             <mxPoint x="780" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="620" />
+              <mxPoint x="780" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
