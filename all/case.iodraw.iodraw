@@ -83,6 +83,9 @@
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-21" value="长焦(变焦)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UA4GAcR8JH4wIj2-OkDI-22" target="I9uPW-A-e4T2IFHWJDZd-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-22" value="VI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -229,11 +232,6 @@
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-63" value="1080P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="775" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I9uPW-A-e4T2IFHWJDZd-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-65">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="895" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-65" value="1080P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="865" width="120" height="60" as="geometry" />
