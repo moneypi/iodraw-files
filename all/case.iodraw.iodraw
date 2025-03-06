@@ -98,7 +98,7 @@
           <mxGeometry x="490" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-7" value="VENC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="900" width="60" height="30" as="geometry" />
+          <mxGeometry x="1060" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-8" target="I9uPW-A-e4T2IFHWJDZd-9">
           <mxGeometry relative="1" as="geometry" />
@@ -115,8 +115,14 @@
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-12" value="VPSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="760" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-13" target="I9uPW-A-e4T2IFHWJDZd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-13" value="红外" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-14" value="VI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
