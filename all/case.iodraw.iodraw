@@ -253,6 +253,22 @@
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-55" value="640x512" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="I9uPW-A-e4T2IFHWJDZd-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-57" value="Object Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="I9uPW-A-e4T2IFHWJDZd-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-59" value="Object Tracking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
