@@ -113,7 +113,7 @@
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-7" value="VENC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1015" y="1380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9uPW-A-e4T2IFHWJDZd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="I9uPW-A-e4T2IFHWJDZd-9">
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-50" target="I9uPW-A-e4T2IFHWJDZd-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="827" y="1050" as="sourcePoint" />
           </mxGeometry>
