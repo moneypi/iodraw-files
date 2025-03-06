@@ -67,6 +67,9 @@
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UA4GAcR8JH4wIj2-OkDI-19" target="I9uPW-A-e4T2IFHWJDZd-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UA4GAcR8JH4wIj2-OkDI-19" target="I9uPW-A-e4T2IFHWJDZd-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-19" value="1080P" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -165,6 +168,9 @@
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-27" value="MP4(1)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1220" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-29" value="1080P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
