@@ -31,6 +31,9 @@
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-7" value="4K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UA4GAcR8JH4wIj2-OkDI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UA4GAcR8JH4wIj2-OkDI-8" target="UA4GAcR8JH4wIj2-OkDI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-8" value="1080P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,7 +44,10 @@
           <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UA4GAcR8JH4wIj2-OkDI-11" value="4K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1025" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UA4GAcR8JH4wIj2-OkDI-15" value="Tracker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
