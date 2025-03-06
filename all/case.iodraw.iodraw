@@ -182,10 +182,10 @@
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-29" value="RTSP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I9uPW-A-e4T2IFHWJDZd-31" value="MP4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-31" value="MP4(2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I9uPW-A-e4T2IFHWJDZd-33" value="MP4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-33" value="MP4(3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
