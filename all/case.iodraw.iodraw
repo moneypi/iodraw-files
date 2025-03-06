@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-2" value="PIP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-5" value="4K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="660" width="120" height="60" as="geometry" />
@@ -187,6 +187,24 @@
         </mxCell>
         <mxCell id="I9uPW-A-e4T2IFHWJDZd-33" value="MP4(3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-36" target="I9uPW-A-e4T2IFHWJDZd-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-36" value="960x512" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-37" value="Object Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I9uPW-A-e4T2IFHWJDZd-39" target="I9uPW-A-e4T2IFHWJDZd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-39" value="1080P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I9uPW-A-e4T2IFHWJDZd-40" value="Object Tracking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
